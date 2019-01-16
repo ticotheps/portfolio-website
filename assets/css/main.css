@@ -3553,6 +3553,11 @@ input, select, textarea {
 	padding-right: 0.5em;
 }
 
+.bitcoin-quiz-screenshot {
+	width: 300px;
+	height: auto;
+}
+
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
