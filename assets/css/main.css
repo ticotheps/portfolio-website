@@ -3548,14 +3548,17 @@ input, select, textarea {
 				#footer .copyright li a {
 					color: inherit;
 				}
+
+/* Tico's CSS Rules */				
 .happy-wife {
 	text-decoration: line-through;
 	padding-right: 0.5em;
 }
 
-.bitcoin-quiz-screenshot {
-	width: 300px;
+.project-screenshot-image {
+	width: 20rem;
 	height: auto;
+	border-radius: 10px;
 }
 
 /* XLarge */
