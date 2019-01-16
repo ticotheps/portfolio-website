@@ -3548,6 +3548,10 @@ input, select, textarea {
 				#footer .copyright li a {
 					color: inherit;
 				}
+.happy-wife {
+	text-decoration: line-through;
+	padding-right: 0.5em;
+}
 
 /* XLarge */
 
